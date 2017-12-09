@@ -1,0 +1,4 @@
+/home/yang/project_new/koutu/build/CMakeFiles/rebuild_cache.dir
+/home/yang/project_new/koutu/build/CMakeFiles/koutu2.dir
+/home/yang/project_new/koutu/build/CMakeFiles/edit_cache.dir
+/home/yang/project_new/koutu/build/CMakeFiles/koutu.dir
